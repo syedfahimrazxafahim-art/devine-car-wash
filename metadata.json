@@ -1,0 +1,6 @@
+{
+  "name": "Divine EcoWash - Mobile Detailing & Eco Car Wash",
+  "description": "Premium eco-friendly mobile car wash and auto detailing in Los Angeles, California. Showroom-quality shine using 50-70% less water and biodegradable products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
